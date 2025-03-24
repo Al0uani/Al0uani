@@ -1,19 +1,22 @@
-## Hi there, I'm Youssef Alouani! 👋
+# 👋 Hey there, I'm **Youssef Alouani** ![Profile views](https://komarev.com/ghpvc/?username=YoussefAlouani&color=blueviolet&style=flat)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=FF5733&background=000000&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+My+GitHub!;AI+%26+Blockchain+Enthusiast;Innovating+One+Project+at+a+Time!)
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefalouani&show_icons=true&theme=radical)
 
-> 🚀 *Aspiring Software Engineer | AI & Cybersecurity Enthusiast | Full Stack Developer*
 
-![Profile views](https://komarev.com/ghpvc/?username=YoussefAlouani&color=blueviolet&style=flat)
+
+Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and building solutions that make an impact. As an Engineering student, I thrive in the world of software development, cybersecurity, and AI.
 
 ---
 
-### 🚀 About Me
-
-🎓 Student at **E.M.S.I**, passionate about **AI, Machine Learning, Cybersecurity, and Full Stack Development**. I love solving complex problems and contributing to innovative projects. Always eager to learn and explore new technologies!
-
+## 🧑‍💻 **About Me**
+- 💡 Vice President at **InnovXTech**
+- 💻 Passionate about **Full Stack Development** & **Smart Contracts**
+- 🤖 AI & Robotics Enthusiast
+- 🧠 Machine Learning & LLMs Explorer
+- 🎯 Always exploring new technologies and contributing to open-source
 🌍 Based in **Tanger, Morocco**  
 📧 Reach me at **[youssef.alouani10@gmail.com](mailto:youssef.alouani10@gmail.com)**  
 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/youssef-alouani-594a0b277/)**  
-
 ---
 
 ### 🛠️ Tech Stack
@@ -49,32 +52,25 @@
 
 ---
 
-### 💡 Notable Projects
 
-📌 **NeuroMed AI** *(2025 - Present)*  
-*A mobile and web app for detecting brain tumors using AI and computer vision.*  
-🔗 [GitHub Repo](#) 
-
-📌 **Bazari - Web3 E-Commerce** *(2024 - 2025)*  
-*A blockchain-powered platform for selling and securing art and cultural assets.*  
-🔗 [GitHub Repo](#)
-
-📌 **EasyTravel** *(2024)*  
-*AI-powered travel management platform integrated with Ethereum smart contracts.*  
-🔗 [GitHub Repo](#)
+## 🌱 **Currently Learning**
+- Advanced Blockchain Development
+- Deep Learning & AI Applications
+- Mobile App Development
 
 ---
 
-### 📊 GitHub Stats
-
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefAlouani&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAlouani&layout=compact&theme=radical)
+## 🧪 **Projects**
+- 🧠 **Brain Tumor Detection using TensorFlow, NumPy, Pandas, and OpenCV**: Developed a deep learning model to classify brain tumors using medical imaging data, applying computer vision and neural networks for precise diagnosis.
 
 ---
 
-### 🔗 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alouani-594a0b277/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.alouani10@gmail.com)
 
-💡 *Always open to exciting projects and collaborations!*
+## 🤝 **Let's Connect!**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alouani-594a0b277/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.alouani10@gmail.com)
+
+🔎 _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_
+
+**✨ Stay curious, keep building! ✨**
+
