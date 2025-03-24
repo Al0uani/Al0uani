@@ -6,8 +6,9 @@ Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and buil
 
 ## 🧑‍💻 **About Me**
 - 💡 Vice President at **InnovXTech**
-- 💻 Passionate about **Full Stack Development** & **Smart Contracts**
+- 💻 Passionate about **Full Stack Development** & **Smart Contracts** 
 - 🤖 AI & Robotics Enthusiast
+- 🧠 Machine Learning & LLMs Explorer
 - 🎯 Always exploring new technologies and contributing to open-source
 
 ---
@@ -25,6 +26,10 @@ Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and buil
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🔹 **Blockchain**
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -45,6 +50,11 @@ Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and buil
 
 ---
 
+## 🧪 **Projects**
+- 🧠 **Brain Tumor Detection using TensorFlow, NumPy, Pandas, and OpenCV**: Developed a deep learning model to classify brain tumors using medical imaging data, applying computer vision and neural networks for precise diagnosis.
+
+---
+
 ## 📈 **GitHub Stats**
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefalouani&show_icons=true&theme=radical)
 
@@ -52,7 +62,7 @@ Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and buil
 
 ## 🤝 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alouani/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefalouani@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.alouani10@gmail.com)
 
 🔎 _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_
 
