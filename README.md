@@ -1,70 +1,80 @@
-# 👋 Hey there, I'm **Youssef Alouani** 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=FF5733&background=000000&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+My+GitHub!;AI+%26+Blockchain+Enthusiast;Innovating+One+Project+at+a+Time!)
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefalouani&show_icons=true&theme=radical)
+## Hi there, I'm Youssef Alouani! 👋
 
+> 🚀 *Aspiring Software Engineer | AI & Cybersecurity Enthusiast | Full Stack Developer*
 
-
-Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and building solutions that make an impact. As an Engineering student, I thrive in the world of software development, cybersecurity, and AI.
+![Profile views](https://komarev.com/ghpvc/?username=YoussefAlouani&color=blueviolet&style=flat)
 
 ---
 
-## 🧑‍💻 **About Me**
-- 💡 Vice President at **InnovXTech**
-- 💻 Passionate about **Full Stack Development** & **Smart Contracts**
-- 🤖 AI & Robotics Enthusiast
-- 🧠 Machine Learning & LLMs Explorer
-- 🎯 Always exploring new technologies and contributing to open-source
+### 🚀 About Me
+
+🎓 Student at **E.M.S.I**, passionate about **AI, Machine Learning, Cybersecurity, and Full Stack Development**. I love solving complex problems and contributing to innovative projects. Always eager to learn and explore new technologies!
+
+🌍 Based in **Tanger, Morocco**  
+📧 Reach me at **[youssef.alouani10@gmail.com](mailto:youssef.alouani10@gmail.com)**  
+🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/youssef-alouani-594a0b277/)**  
 
 ---
 
-## 🚀 **Skills & Technologies**
+### 🛠️ Tech Stack
 
-### 🔹 **Languages**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🌐 Languages & Frameworks
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🔹 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+#### ⚙️ AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🔹 **Blockchain**
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![MetaMask](https://img.shields.io/badge/-MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+#### 🏗️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🔹 **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
----
-
-## 🌱 **Currently Learning**
-- Advanced Blockchain Development
-- Deep Learning & AI Applications
-- Mobile App Development
+#### 🔧 DevOps & Reverse Engineering
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-2C3E50?style=for-the-badge)
 
 ---
 
-## 🧪 **Projects**
-- 🧠 **Brain Tumor Detection using TensorFlow, NumPy, Pandas, and OpenCV**: Developed a deep learning model to classify brain tumors using medical imaging data, applying computer vision and neural networks for precise diagnosis.
+### 💡 Notable Projects
+
+📌 **NeuroMed AI** *(2025 - Present)*  
+*A mobile and web app for detecting brain tumors using AI and computer vision.*  
+🔗 [GitHub Repo](#) 
+
+📌 **Bazari - Web3 E-Commerce** *(2024 - 2025)*  
+*A blockchain-powered platform for selling and securing art and cultural assets.*  
+🔗 [GitHub Repo](#)
+
+📌 **EasyTravel** *(2024)*  
+*AI-powered travel management platform integrated with Ethereum smart contracts.*  
+🔗 [GitHub Repo](#)
 
 ---
 
+### 📊 GitHub Stats
 
-## 🤝 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alouani-594a0b277/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.alouani10@gmail.com)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefAlouani&show_icons=true&theme=radical)
 
-🔎 _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAlouani&layout=compact&theme=radical)
 
-**✨ Stay curious, keep building! ✨**
+---
 
+### 🔗 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alouani-594a0b277/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.alouani10@gmail.com)
+
+💡 *Always open to exciting projects and collaborations!*
