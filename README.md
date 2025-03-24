@@ -17,9 +17,9 @@ Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and buil
 - 🤖 AI & Robotics Enthusiast
 - 🧠 Machine Learning & LLMs Explorer
 - 🎯 Always exploring new technologies and contributing to open-source
--🌍 Based in **Tanger, Morocco**  
--📧 Reach me at **[youssef.alouani10@gmail.com](mailto:youssef.alouani10@gmail.com)**  
--🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/youssef-alouani-594a0b277/)**  
+- 🌍 Based in **Tanger, Morocco**  
+- 📧 Reach me at **[youssef.alouani10@gmail.com](mailto:youssef.alouani10@gmail.com)**  
+- 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/youssef-alouani-594a0b277/)**  
 ---
 
 ### 🛠️ Tech Stack
