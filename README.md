@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Youssef Alouani**
+# 👋 Hey there, I'm **Youssef Alouani** ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefalouani&show_icons=true&theme=radical)
 
 Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and building solutions that make an impact. As an Engineering student, I thrive in the world of software development, cybersecurity, and AI.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and buil
 
 ## 🧑‍💻 **About Me**
 - 💡 Vice President at **InnovXTech**
-- 💻 Passionate about **Full Stack Development** & **Smart Contracts** 
+- 💻 Passionate about **Full Stack Development** & **Smart Contracts**
 - 🤖 AI & Robotics Enthusiast
 - 🧠 Machine Learning & LLMs Explorer
 - 🎯 Always exploring new technologies and contributing to open-source
@@ -50,15 +50,6 @@ Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and buil
 
 ---
 
-## 🧪 **Projects**
-- 🧠 **Brain Tumor Detection using TensorFlow, NumPy, Pandas, and OpenCV**: Developed a deep learning model to classify brain tumors using medical imaging data, applying computer vision and neural networks for precise diagnosis.
-
----
-
-## 📈 **GitHub Stats**
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefalouani&show_icons=true&theme=radical)
-
----
 
 ## 🤝 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alouani-594a0b277/)
