@@ -1,4 +1,5 @@
-# 👋 Hey there, I'm **Youssef Alouani** ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefalouani&show_icons=true&theme=radical)
+# 👋 Hey there, I'm **Youssef Alouani** 
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefalouani&show_icons=true&theme=radical)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=FF5733&background=000000&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+My+GitHub!;AI+%26+Blockchain+Enthusiast;Innovating+One+Project+at+a+Time!)
 
