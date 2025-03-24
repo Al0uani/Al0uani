@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm **Youssef Alouani** ![Profile views](https://komarev.com/ghpvc/?username=YoussefAlouani&color=blueviolet&style=flat)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=FF5733&background=000000&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+My+GitHub!;AI+%26+Blockchain+Enthusiast;Innovating+One+Project+at+a+Time!)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefalouani&show_icons=true&theme=radical" alt="Youssef's GitHub stats" width="48%" style="padding-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAlouani&layout=compact&theme=radical" alt="Top Langs" width="48%" style="padding-left: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Al0uani&show_icons=true&theme=radical" alt="Youssef's GitHub stats" width="48%" style="padding-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al0uani&layout=compact&theme=radical" alt="Top Langs" width="48%" style="padding-left: 10px;"/>
 </p>
 
 
