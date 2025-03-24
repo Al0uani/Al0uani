@@ -60,11 +60,6 @@ Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and buil
 
 ---
 
-## 🧪 **Projects**
-- 🧠 **Brain Tumor Detection using TensorFlow, NumPy, Pandas, and OpenCV**: Developed a deep learning model to classify brain tumors using medical imaging data, applying computer vision and neural networks for precise diagnosis.
-
----
-
 
 ## 🤝 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alouani-594a0b277/)
