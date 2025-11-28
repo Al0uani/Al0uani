@@ -12,7 +12,6 @@ Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and buil
 ---
 
 ## 🧑‍💻 **About Me**
-- 💡 Vice President at **InnovXTech**
 - 💻 Passionate about **Full Stack Development** & **Smart Contracts**
 - 🤖 AI & Robotics Enthusiast
 - 🧠 Machine Learning & LLMs Explorer
