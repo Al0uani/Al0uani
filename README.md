@@ -5,6 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al0uani&layout=compact&theme=radical&langs_count=8" />
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Al0uani&theme=gruvbox&hide_border=true" />
+</p>
+
 
 
 Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and building solutions that make an impact. As an Engineering student, I thrive in the world of software development, cybersecurity, and AI.
