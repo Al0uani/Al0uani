@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm **Youssef Alouani** ![Profile views](https://komarev.com/ghpvc/?username=Al0uani&color=blueviolet&style=flat)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=FF5733&background=000000&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+My+GitHub!;AI+%26+Blockchain+Enthusiast;Innovating+One+Project+at+a+Time!)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Al0uani&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Al0uani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al0uani&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Al0uani&theme=gruvbox&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Al0uani&theme=synthwave&hide_border=true" />
 </p>
 
 
