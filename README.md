@@ -3,11 +3,10 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Al0uani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=0" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al0uani&layout=compact&theme=radical&langs_count=8" />
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Al0uani&theme=synthwave&hide_border=true" />
 </p>
+
+
 
 
 
