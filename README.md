@@ -11,7 +11,7 @@
 
 
 
-Welcome to my GitHub! 🚀 I'm passionate about innovation, technology, and building solutions that make an impact. As an Engineering student, I thrive in the world of software development, cybersecurity, and AI.
+Welcome to my GitHub!  I'm passionate about innovation, technology, and building solutions that make an impact. As an Engineering student, I thrive in the world of software development, cybersecurity, and AI.
 
 ---
 
