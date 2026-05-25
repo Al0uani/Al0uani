@@ -16,8 +16,7 @@ Welcome to my GitHub!  I'm passionate about innovation, technology, and building
 ---
 
 ## 🧑‍💻 **About Me**
-- 💻 Passionate about **Full Stack Development** & **Smart Contracts**
-- 🤖 AI & Robotics Enthusiast
+- 💻 Passionate about ** AI Full Stack Development** & **Smart Contracts**
 - 🧠 Machine Learning & LLMs Explorer
 - 🎯 Always exploring new technologies and contributing to open-source
 - 🌍 Based in **Tangier, Morocco**  
@@ -59,12 +58,7 @@ Welcome to my GitHub!  I'm passionate about innovation, technology, and building
 ---
 
 
-## 🌱 **Currently Learning**
-- Advanced Blockchain Development
-- Deep Learning & AI Applications
-- Mobile App Development
 
----
 
 
 ## 🤝 **Let's Connect!**
